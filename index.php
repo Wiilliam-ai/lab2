@@ -20,7 +20,7 @@
                     <img src="./img/persona.jpg" style="height: 15rem;" class="card-img-top" alt="Personas">
                     <div class="card-body">
                       <h5 class="card-title">Persona</h5>
-                      <a href="#" class="btn btn-primary">Ir a</a>
+                      <a href="/persona.php" class="btn btn-primary">Ir a</a>
                     </div>
                   </div>
                 </div>
@@ -29,7 +29,7 @@
                     <img src="./img/lotes.jpg" style="height: 15rem;" class="card-img-top" alt="lotes">
                     <div class="card-body">
                       <h5 class="card-title">Lotes</h5>
-                      <a href="#" class="btn btn-primary">Ir a</a>
+                      <a href="/lotes.php" class="btn btn-primary">Ir a</a>
                     </div>
                   </div>
                 </div>
@@ -38,7 +38,7 @@
                     <img src="./img/registro.png" style="height: 15rem;" class="card-img-top" alt="registro">
                     <div class="card-body">
                       <h5 class="card-title">Registro</h5>
-                      <a href="#" class="btn btn-primary">Ir a</a>
+                      <a href="/registro.php" class="btn btn-primary">Ir a</a>
                     </div>
                   </div>
                 </div>
