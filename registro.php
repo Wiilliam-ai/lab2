@@ -1,3 +1,5 @@
 <?php include("./templates/header.php"); ?>
-    registro
+    <div class="container">
+        registro
+    </div>
 <?php include("./templates/footer.php"); ?>

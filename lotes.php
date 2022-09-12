@@ -1,3 +1,5 @@
 <?php include("./templates/header.php"); ?>
-    lotes
+    <div class="container">
+        lotes
+    </div>
 <?php include("./templates/footer.php"); ?>
